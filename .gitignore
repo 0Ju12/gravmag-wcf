@@ -1,0 +1,12 @@
+__pycache__/
+*.egg-info/
+examples/output/
+# 연구 데이터는 올리지 않음
+data/
+*.asc
+*.dat
+*.grd
+*.xlsx
+*.csv
+*.bln
+*.npy
