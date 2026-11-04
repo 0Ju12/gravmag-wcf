@@ -1,5 +1,7 @@
 # gravmag-wcf — 중력·자력 데이터 파수 상관 필터링(WCF)과 SLFI·DLFI
 
+[![tests](https://github.com/0Ju12/gravmag-wcf/actions/workflows/test.yml/badge.svg)](https://github.com/0Ju12/gravmag-wcf/actions/workflows/test.yml) · [프로젝트 상세 (분석 흐름 구조도·설계 판단)](https://0ju12.github.io/projects/masters.html) · [연구 정리 글](https://0ju12.github.io/posts/2026-11-wavenumber-correlation.html)
+
 석사 학위논문 **「Characterization of Salt and Basement Structures in the Ghasha Area Using Wavenumber Correlation Analysis of Gravity and Magnetic Anomaly Data」**(전북대학교, 2026)와 **SPE Journal 논문(제1저자, 2026)**에서 사용한 분석 코드를 정리한 저장소입니다.
 
 > 실제 연구 데이터(아부다비 가샤 지역 항공 중력·자력 자료, 공동연구 기관 모델)는 포함하지 않습니다. 대신 **합성 데이터로 전체 흐름을 재현하는 예제**를 넣었습니다.
